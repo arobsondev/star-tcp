@@ -14,4 +14,4 @@ Exemplo simples de processos que possuem uma comunicação em estrela (TCP)
 
 > OBS: é necessário que um processo efetue a conexão ao mestre e o mesmo ao processo, e após isso deve rodar o outro processo
 
-3. Rode a quantidade de processos que você idincou no passo 1
+3. Rode a quantidade de processos que você indicou no passo 1
